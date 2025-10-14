@@ -1,10 +1,8 @@
-[toc]
-
-
-
 # Bobyard Comment System - Fullstack Challenge
 
 A YouTube/Reddit-style comment system built with Django REST Framework (backend) and React (frontend).
+
+![Screenshot 2025-10-13 at 5.01.06 PM](screenshot.png)
 
 ## Time & Approach
 
